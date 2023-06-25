@@ -10,7 +10,7 @@
 This year I am focused on learning D3, GraphQL along with my day to day job. Also taking some time to work on ZapTwo Software, that is a small creative web development studio.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=csalkemy" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=alkemyhossain" alt="https://github.com/ileriayo" />
 </p>
 
 <hr>
